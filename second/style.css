@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	height: 100%;
+}
+
+.blue{
+	background-color: rgb(74, 144, 226);
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+.sea{
+	background-color: rgb(80, 227, 194);
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+.green{
+	background-color: rgb(184, 233, 144);
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+img{
+	position: absolute;
+	bottom: 0px;
+	width: 33%;
+
+}
